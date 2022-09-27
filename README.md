@@ -11,4 +11,6 @@ Hi! I am Harsh Chhikara, I make awesome mobile applications and I also teach Jap
 LinkedIn:-[@HarshChhikara](https://www.linkedin.com/in/harsh-chhikara-191a84175/)
 Instagram:-[@hc_chhikara](https://www.instagram.com/hc_chhikara/)
 
+[![@harshchhikara's Holopin board](https://holopin.io/api/user/board?user=harshchhikara)](https://holopin.io/@harshchhikara)
+
 <img src="https://github-readme-stats.vercel.app/api?username=HarshChhikara&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
